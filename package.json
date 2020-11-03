@@ -1,0 +1,25 @@
+{
+  "name": "PROFESIONAL-JAVASCRIPT",
+  "version": "1.0.0",
+  "description": "curso profesional de JavaScript  de platzi",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "pro": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whangeda/PROFESIONAL-JAVASCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whangeda/PROFESIONAL-JAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/whangeda/PROFESIONAL-JAVASCRIPT#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.0.5"
+  }
+}
